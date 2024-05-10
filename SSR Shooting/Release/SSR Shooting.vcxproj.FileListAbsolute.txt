@@ -1,0 +1,3 @@
+C:\AX3A2024\SSR Shooting\Release\SSR Shooting.exe
+C:\提出課題\c言語課題\SSR Shooting\Release\SSR Shooting.exe
+C:\提出課題\c言語課題\ポートフォリオ_古川良典\Release\SSR Shooting.exe
